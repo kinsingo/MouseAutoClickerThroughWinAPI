@@ -48,7 +48,7 @@ namespace MouseAutoCliker
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            System.Windows.Forms.MessageBox.Show("started");
         }
 
         private void button_Set_and_Click_Click(object sender, EventArgs e)
@@ -70,11 +70,10 @@ namespace MouseAutoCliker
             }
         }
 
-
-
-
-
-
-
+        private void Form1_MouseClick(object sender, MouseEventArgs e)
+        {
+            textBoxY.Text = Cursor.Position.X.ToString();
+            textBoxY.Text = Cursor.Position.Y.ToString();
+        }
     }
 }

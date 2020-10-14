@@ -8,3 +8,13 @@ C:\Users\LGD_VH\source\repos\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAuto
 C:\Users\LGD_VH\source\repos\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.csproj.CoreCompileInputs.cache
 C:\Users\LGD_VH\source\repos\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.exe
 C:\Users\LGD_VH\source\repos\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.pdb
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\bin\Debug\MouseAutoCliker.exe.config
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\bin\Debug\MouseAutoCliker.exe
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\bin\Debug\MouseAutoCliker.pdb
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.csprojAssemblyReference.cache
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.Form1.resources
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.Properties.Resources.resources
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.csproj.GenerateResource.cache
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.csproj.CoreCompileInputs.cache
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.exe
+E:\myGitHub\MouseAutoCliker\MouseAutoCliker\obj\Debug\MouseAutoCliker.pdb
